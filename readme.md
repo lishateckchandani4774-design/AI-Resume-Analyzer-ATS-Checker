@@ -108,7 +108,7 @@ AI-Resume-Analyzer/
 ├── README.md
 └── sample_resume.pdf
 ```
----
+
 Screen Shots
 <img width="2878" height="1536" alt="Screenshot 2026-06-29 181317" src="https://github.com/user-attachments/assets/46e52453-ff98-4230-8572-95d0eb4099f9" />
 <img width="2880" height="1530" alt="Screenshot 2026-06-29 181424" src="https://github.com/user-attachments/assets/4456be5f-c18a-476e-8e49-426902bda90c" />
@@ -117,7 +117,7 @@ Screen Shots
 <img width="2862" height="1520" alt="Screenshot 2026-06-29 181506" src="https://github.com/user-attachments/assets/61644e46-aa44-4bdd-973f-5e87e0acdf4f" />
 <img width="2878" height="1524" alt="Screenshot 2026-06-29 181535" src="https://github.com/user-attachments/assets/d670d66c-7412-4553-8a46-092973721239" />
 
----
+
 
 ## 📦 Requirements
 ```text
