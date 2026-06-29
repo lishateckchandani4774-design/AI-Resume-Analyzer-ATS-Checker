@@ -107,7 +107,7 @@ AI-Resume-Analyzer/
 │   └── config.toml
 ├── README.md
 └── sample_resume.pdf
-```
+
 
 Screen Shots
 <img width="2878" height="1536" alt="Screenshot 2026-06-29 181317" src="https://github.com/user-attachments/assets/46e52453-ff98-4230-8572-95d0eb4099f9" />
@@ -126,7 +126,7 @@ pandas
 plotly
 pdfplumber
 scikit-learn
-```
+
 
 ---
 
